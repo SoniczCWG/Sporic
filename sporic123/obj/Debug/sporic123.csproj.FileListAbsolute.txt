@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\sporic123\sporic123\bin\Debug\sporic123.exe.config
+C:\Users\Student\source\repos\sporic123\sporic123\bin\Debug\sporic123.exe
+C:\Users\Student\source\repos\sporic123\sporic123\bin\Debug\sporic123.pdb
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.Properties.Resources.resources
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.exe
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.pdb
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.Form1.resources
+C:\Users\Student\source\repos\sporic123\sporic123\obj\Debug\sporic123.csproj.AssemblyReference.cache
